@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👩🏻‍💻 Jonathan Iuds
 
-<!--
-**jonathaniuds/jonathaniuds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor BackEnd`**
 
-Here are some ideas to get you started:
+Me chamo Jonathan rafael iuds, tenho 27 anos e sou natural de Foz do iguaçu. Atualmente, estou cursando Desenvolvimento de Sistemas no Senai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JAVA" 
+    title="JAVA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MYSQL"
+    title="TMYSQ" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathaniuds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
