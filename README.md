@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Jonathan rafael iuds, tenho 27 anos e sou natural de Foz do iguaçu. Atualmente, estou cursando Desenvolvimento de Sistemas no Senai.
+Me chamo Jonathan rafael iuds, tenho 27 anos e sou natural de Curitiba. Atualmente, estou cursando Desenvolvimento de Sistemas no Senai.
 
 
 ---
