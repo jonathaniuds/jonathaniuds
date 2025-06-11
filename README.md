@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Jonathan rafael iuds, tenho 27 anos e sou natural de Curitiba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter.
+Desenvolvedor Full Stack em formação.
 
 
 ---
