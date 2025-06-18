@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jonathan, tenho 27 anos e sou natural de Foz do Iguaçu. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia.
+Me chamo Jonathan. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER.
 
 <p align="left">
     <a href="https://github.com/jonathaniudss?tab=follower">
