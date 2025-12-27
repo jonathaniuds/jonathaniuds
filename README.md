@@ -102,6 +102,5 @@ Me chamo Jonathan. Atualmente, estou cursando Análise e Desenvolvimento de Sist
 
 <br/>
 <br/>
-  />
 
 </p>
