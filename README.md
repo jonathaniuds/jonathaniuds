@@ -2,17 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jonathan. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER.
+Olá! Sou Jonathan, Desenvolvedor de Software Júnior com foco em Back-end.
 
-<p align="left">
-    <a href="https://github.com/jonathaniudss?tab=follower">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/jonathaniuds?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos acadêmicos e pessoais utilizando Kotlin, C# e JavaScript, com foco em lógica de programação, orientação a objetos e APIs REST.
+
 
 ---
 
