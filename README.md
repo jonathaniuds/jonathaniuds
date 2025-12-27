@@ -4,7 +4,7 @@
 
 Olá! Sou Jonathan, Desenvolvedor de Software Júnior com foco em Back-end.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos acadêmicos e pessoais utilizando Kotlin, C# e JavaScript, com foco em lógica de programação, orientação a objetos e APIs REST.
+Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos acadêmicos e pessoais com foco em lógica de programação, orientação a objetos e APIs REST.
 
 
 ---
