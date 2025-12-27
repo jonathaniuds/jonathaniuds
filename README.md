@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jonathan Iuds
+# Jonathan Iuds
 
 **`Desenvolvedor FullStack`**
 
